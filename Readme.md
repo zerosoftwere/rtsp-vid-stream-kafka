@@ -10,4 +10,5 @@ Spike on streaming video to kafka queue and comsumming the live feed on the othe
 - `docker compose up`
 
 Access producer on http://localhost:8000
+
 Access consumer on http://localhost:8001
